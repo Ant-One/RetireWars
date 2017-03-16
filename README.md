@@ -1,2 +1,2 @@
 # RetardedWars
-A LÖVE-based Advanced Wars clone
+A LÖVE-based Advance Wars clone
